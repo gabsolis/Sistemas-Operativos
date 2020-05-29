@@ -18,6 +18,6 @@
 | cd.. | Devuelve de carpeta|
 | touch| Crear archivos |
 | cat| Ver contenido de archivos|
-| Ps -aux "|" grep |  grep busca cadenas de texto) firefox  busca las lineas de códigos donde esta el proceso de firefox|
+| Ps -aux grep |  grep busca cadenas de texto) firefox  busca las lineas de códigos donde esta el proceso de firefox|
 | kill-9| matar proceso |
 | Pstree| Ver procesos en arbol|
