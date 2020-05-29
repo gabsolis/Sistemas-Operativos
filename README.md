@@ -1,6 +1,6 @@
 # Sistemas-Operativos
 
-###Comandos basicos
+### Comandos basicos
 
 | Comando | Definicion |
 | ------ | ------ |
