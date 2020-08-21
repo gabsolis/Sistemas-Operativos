@@ -31,3 +31,10 @@
 |wget| descarga archivos desde una pagina web seleccionada|
 |dpkg| instalar, compilar, eliminar y manipular los paquetes de Debian|
 |lsblk|Muestra información de los dispositivos de bloques, como son los discos duros, volúmenes y grupos de volúmenes|
+|less| permite consultar páginas hacia atrás y hacia delante|
+|sort|Ordena el resultado de un texto dado|
+|uname|Imprime información del sistema, incluyendo la versión del kernel|
+|uptime|Indica el tiempo que el sistema encendido|
+| du|Muestra el espacio estimado ocupado por los ficheros y directorios|
+|df|se encarga de mostrar el espacio usado y del disponible en todos los sistemas de ficheros montados.|
+|rpm|sirve para gestionar los paquetes de RHEL y similares|
